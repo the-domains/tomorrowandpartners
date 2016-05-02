@@ -1,0 +1,28 @@
+name: tomorrowandpartners
+favicon: null
+layout_spectrum: 0.431827710242942
+typography_spectrum: 0.8706476022489369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.68562628980726
+  lightness: 0.025263289688155055
+  saturation: 0.5055553121492267
+  rhythmicContrast: 0.14916653209365904
+purpose: []
